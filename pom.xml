@@ -25,7 +25,8 @@
 				<configuration>
 					<!-- 最好使用默认值 -->
 					<!-- <sourceDirectory>${basedir}</sourceDirectory> -->
-					<grammars>JSON.g4</grammars>
+					<!--不要定义，默认会处理source下除imports的所有grammar文件-->
+					<!--<grammars>JSON.g4</grammars> -->
 					<visitor>true</visitor>
 					<listener>true</listener>
 					<outputEncoding>UTF-8</outputEncoding>
