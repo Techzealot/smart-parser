@@ -1,4 +1,4 @@
-package org.mavis.samrt.parser;
+package org.mavis.smart.parser;
 
 import java.io.IOException;
 import java.nio.file.Paths;
