@@ -1,4 +1,4 @@
-package org.mavis.samrt.parser.csv.impl;
+package org.mavis.smart.parser.csv.impl;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
@@ -12,7 +12,7 @@ import org.mavis.samrt.antlr4.parser.csv.CSVParser.HdrContext;
 import org.mavis.samrt.antlr4.parser.csv.CSVParser.RowContext;
 import org.mavis.samrt.antlr4.parser.csv.CSVParser.StringContext;
 import org.mavis.samrt.antlr4.parser.csv.CSVParser.TextContext;
-import org.mavis.samrt.model.CSVObject;
+import org.mavis.smart.model.CSVObject;
 
 public class CSVLoader extends CSVBaseListener {
 	public static final String EMPTY = "";

@@ -1,4 +1,4 @@
-package org.mavis.samrt.parser.csv.impl;
+package org.mavis.smart.parser.csv.impl;
 
 import java.io.IOException;
 import java.nio.charset.Charset;
@@ -11,8 +11,8 @@ import org.antlr.v4.runtime.tree.ParseTree;
 import org.antlr.v4.runtime.tree.ParseTreeWalker;
 import org.mavis.samrt.antlr4.parser.csv.CSVLexer;
 import org.mavis.samrt.antlr4.parser.csv.CSVParser;
-import org.mavis.samrt.model.CSVObject;
-import org.mavis.samrt.parser.impl.ByteParser;
+import org.mavis.smart.model.CSVObject;
+import org.mavis.smart.parser.impl.ByteParser;
 
 public class CSVParsers<T> extends ByteParser<T> {
 

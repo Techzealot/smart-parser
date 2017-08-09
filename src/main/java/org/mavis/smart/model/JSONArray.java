@@ -1,4 +1,4 @@
-package org.mavis.samrt.model;
+package org.mavis.smart.model;
 
 public class JSONArray {
 

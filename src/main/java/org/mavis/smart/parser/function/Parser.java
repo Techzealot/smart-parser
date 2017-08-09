@@ -1,4 +1,4 @@
-package org.mavis.samrt.parser.function;
+package org.mavis.smart.parser.function;
 
 import java.io.File;
 import java.io.IOException;

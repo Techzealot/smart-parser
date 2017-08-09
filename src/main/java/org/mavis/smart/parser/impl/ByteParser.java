@@ -1,11 +1,11 @@
-package org.mavis.samrt.parser.impl;
+package org.mavis.smart.parser.impl;
 
 import java.io.File;
 import java.io.InputStream;
 import java.nio.ByteBuffer;
 import java.nio.charset.Charset;
 
-import org.mavis.samrt.parser.Parser;
+import org.mavis.smart.parser.Parser;
 
 public abstract class ByteParser<T> implements Parser<T>{
 

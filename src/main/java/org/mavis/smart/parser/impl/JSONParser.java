@@ -1,4 +1,4 @@
-package org.mavis.samrt.parser.impl;
+package org.mavis.smart.parser.impl;
 
 import java.nio.charset.Charset;
 

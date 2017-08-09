@@ -4,8 +4,8 @@ import java.io.IOException;
 import java.nio.file.Paths;
 
 import org.junit.Test;
-import org.mavis.samrt.model.CSVObject;
-import org.mavis.samrt.parser.csv.impl.CSVParsers;
+import org.mavis.smart.model.CSVObject;
+import org.mavis.smart.parser.csv.impl.CSVParsers;
 
 public class CSVParsersTest {
 	@Test
